@@ -1,0 +1,10 @@
+D:\!\4\Портфолио\C#\SuperMemory\Children\bin\Release\Children.exe.config
+D:\!\4\Портфолио\C#\SuperMemory\Children\bin\Release\Children.exe
+D:\!\4\Портфолио\C#\SuperMemory\Children\bin\Release\Children.pdb
+D:\!\4\Портфолио\C#\SuperMemory\Children\obj\Release\Children.csprojResolveAssemblyReference.cache
+D:\!\4\Портфолио\C#\SuperMemory\Children\obj\Release\Children.Form1.resources
+D:\!\4\Портфолио\C#\SuperMemory\Children\obj\Release\Children.Form2.resources
+D:\!\4\Портфолио\C#\SuperMemory\Children\obj\Release\Children.Properties.Resources.resources
+D:\!\4\Портфолио\C#\SuperMemory\Children\obj\Release\Children.csproj.GenerateResource.Cache
+D:\!\4\Портфолио\C#\SuperMemory\Children\obj\Release\Children.exe
+D:\!\4\Портфолио\C#\SuperMemory\Children\obj\Release\Children.pdb

@@ -1,0 +1,44 @@
+c:\users\саша\documents\visual studio 2015\Projects\Children\Children\bin\Debug\Children.exe.config
+c:\users\саша\documents\visual studio 2015\Projects\Children\Children\bin\Debug\Children.exe
+c:\users\саша\documents\visual studio 2015\Projects\Children\Children\bin\Debug\Children.pdb
+c:\users\саша\documents\visual studio 2015\Projects\Children\Children\obj\Debug\Children.csprojResolveAssemblyReference.cache
+c:\users\саша\documents\visual studio 2015\Projects\Children\Children\obj\Debug\Children.Properties.Resources.resources
+c:\users\саша\documents\visual studio 2015\Projects\Children\Children\obj\Debug\Children.csproj.GenerateResource.Cache
+c:\users\саша\documents\visual studio 2015\Projects\Children\Children\obj\Debug\Children.exe
+c:\users\саша\documents\visual studio 2015\Projects\Children\Children\obj\Debug\Children.pdb
+c:\users\саша\documents\visual studio 2015\Projects\Children\Children\obj\Debug\Children.Form1.resources
+C:\Users\Саша\Documents\Visual Studio 2015\Projects\Children\Children\obj\Debug\Children.Form2.resources
+D:\!\4\C#\L5 - Children\Children\bin\Debug\Children.exe.config
+D:\!\4\C#\L5 - Children\Children\obj\Debug\Children.exe
+D:\!\4\C#\L5 - Children\Children\obj\Debug\Children.pdb
+D:\!\4\C#\L5 - Children\Children\bin\Debug\Children.exe
+D:\!\4\C#\L5 - Children\Children\bin\Debug\Children.pdb
+D:\!\4\C#\L5 - Children\Children\obj\Debug\Children.csprojResolveAssemblyReference.cache
+D:\!\4\C#\L5 - Children\Children\obj\Debug\Children.Form1.resources
+D:\!\4\C#\L5 - Children\Children\obj\Debug\Children.Form2.resources
+D:\!\4\C#\L5 - Children\Children\obj\Debug\Children.Properties.Resources.resources
+D:\!\4\C#\L5 - Children\Children\obj\Debug\Children.csproj.GenerateResource.Cache
+D:\!\4\C#\1 semestr\L5 - Children\Children\bin\Debug\Children.exe.config
+D:\!\4\C#\1 semestr\L5 - Children\Children\obj\Debug\Children.exe
+D:\!\4\C#\1 semestr\L5 - Children\Children\obj\Debug\Children.pdb
+D:\!\4\Портфолио\C#\SuperMemory\Children\bin\Debug\Children.exe.config
+D:\!\4\Портфолио\C#\SuperMemory\Children\bin\Debug\Children.exe
+D:\!\4\Портфолио\C#\SuperMemory\Children\bin\Debug\Children.pdb
+D:\!\4\Портфолио\C#\SuperMemory\Children\obj\Debug\Children.csprojResolveAssemblyReference.cache
+D:\!\4\Портфолио\C#\SuperMemory\Children\obj\Debug\Children.Form1.resources
+D:\!\4\Портфолио\C#\SuperMemory\Children\obj\Debug\Children.Form2.resources
+D:\!\4\Портфолио\C#\SuperMemory\Children\obj\Debug\Children.Properties.Resources.resources
+D:\!\4\Портфолио\C#\SuperMemory\Children\obj\Debug\Children.csproj.GenerateResource.Cache
+D:\!\4\Портфолио\C#\SuperMemory\Children\obj\Debug\Children.exe
+D:\!\4\Портфолио\C#\SuperMemory\Children\obj\Debug\Children.pdb
+D:\UnityProjects\BrainsR\Children\bin\Debug\Children.exe.config
+D:\UnityProjects\BrainsR\Children\bin\Debug\Children.exe
+D:\UnityProjects\BrainsR\Children\bin\Debug\Children.pdb
+D:\UnityProjects\BrainsR\Children\obj\Debug\Children.csprojAssemblyReference.cache
+D:\UnityProjects\BrainsR\Children\obj\Debug\Children.Form1.resources
+D:\UnityProjects\BrainsR\Children\obj\Debug\Children.Form2.resources
+D:\UnityProjects\BrainsR\Children\obj\Debug\Children.Properties.Resources.resources
+D:\UnityProjects\BrainsR\Children\obj\Debug\Children.csproj.GenerateResource.cache
+D:\UnityProjects\BrainsR\Children\obj\Debug\Children.csproj.CoreCompileInputs.cache
+D:\UnityProjects\BrainsR\Children\obj\Debug\Children.exe
+D:\UnityProjects\BrainsR\Children\obj\Debug\Children.pdb
